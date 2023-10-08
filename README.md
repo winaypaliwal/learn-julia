@@ -1,2 +1,2 @@
-# learn-julia
-Learn Julia with Machine Learning Programs
+# My ML Lib
+Julia and Python implementations of popular ML programs from scratch
